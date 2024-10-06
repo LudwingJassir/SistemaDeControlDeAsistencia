@@ -1,0 +1,5 @@
+Nombre: Ana
+Sesiones Totales: 20
+Sesiones Asistidas: 18
+Porcentaje de Asistencia: 90%
+¿Cumple con el mínimo de asistencia? Sí

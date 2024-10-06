@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ludwi\\Desktop\\C# Projects\\SIstemaDeControlDeAsistencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0284D2C-B7CB-40D5-8922-825C3CAFDCD6}|SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia.csproj|c:\\users\\ludwi\\desktop\\c# projects\\sistemadecontroldeasistencia\\sistemadecontroldeasistencia\\extencionesestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0284D2C-B7CB-40D5-8922-825C3CAFDCD6}|SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia.csproj|solutionrelative:sistemadecontroldeasistencia\\extencionesestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0284D2C-B7CB-40D5-8922-825C3CAFDCD6}|SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia.csproj|c:\\users\\ludwi\\desktop\\c# projects\\sistemadecontroldeasistencia\\sistemadecontroldeasistencia\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0284D2C-B7CB-40D5-8922-825C3CAFDCD6}|SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia.csproj|solutionrelative:sistemadecontroldeasistencia\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0284D2C-B7CB-40D5-8922-825C3CAFDCD6}|SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia.csproj|c:\\users\\ludwi\\desktop\\c# projects\\sistemadecontroldeasistencia\\sistemadecontroldeasistencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0284D2C-B7CB-40D5-8922-825C3CAFDCD6}|SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia.csproj|solutionrelative:sistemadecontroldeasistencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtencionesEstudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\ludwi\\Desktop\\C# Projects\\SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia\\ExtencionesEstudiantes.cs",
+              "RelativeDocumentMoniker": "SIstemaDeControlDeAsistencia\\ExtencionesEstudiantes.cs",
+              "ToolTip": "C:\\Users\\ludwi\\Desktop\\C# Projects\\SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia\\ExtencionesEstudiantes.cs",
+              "RelativeToolTip": "SIstemaDeControlDeAsistencia\\ExtencionesEstudiantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:39:47.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\ludwi\\Desktop\\C# Projects\\SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia\\Universidad.cs",
+              "RelativeDocumentMoniker": "SIstemaDeControlDeAsistencia\\Universidad.cs",
+              "ToolTip": "C:\\Users\\ludwi\\Desktop\\C# Projects\\SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia\\Universidad.cs",
+              "RelativeToolTip": "SIstemaDeControlDeAsistencia\\Universidad.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:39:06.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ludwi\\Desktop\\C# Projects\\SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia\\Program.cs",
+              "RelativeDocumentMoniker": "SIstemaDeControlDeAsistencia\\Program.cs",
+              "ToolTip": "C:\\Users\\ludwi\\Desktop\\C# Projects\\SIstemaDeControlDeAsistencia\\SIstemaDeControlDeAsistencia\\Program.cs",
+              "RelativeToolTip": "SIstemaDeControlDeAsistencia\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:25:48.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

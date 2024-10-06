@@ -1,0 +1,5 @@
+Nombre: Carlos
+Sesiones Totales: 20
+Sesiones Asistidas: 14
+Porcentaje de Asistencia: 70%
+¿Cumple con el mínimo de asistencia? No

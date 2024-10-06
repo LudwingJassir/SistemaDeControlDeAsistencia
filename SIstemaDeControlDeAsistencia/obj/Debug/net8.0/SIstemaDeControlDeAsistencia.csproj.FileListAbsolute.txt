@@ -1,0 +1,14 @@
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\obj\Debug\net8.0\SIstemaDeControlDeAsistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\obj\Debug\net8.0\SIstemaDeControlDeAsistencia.AssemblyInfoInputs.cache
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\obj\Debug\net8.0\SIstemaDeControlDeAsistencia.AssemblyInfo.cs
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\obj\Debug\net8.0\SIstemaDeControlDeAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\bin\Debug\net8.0\SIstemaDeControlDeAsistencia.exe
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\bin\Debug\net8.0\SIstemaDeControlDeAsistencia.deps.json
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\bin\Debug\net8.0\SIstemaDeControlDeAsistencia.runtimeconfig.json
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\bin\Debug\net8.0\SIstemaDeControlDeAsistencia.dll
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\bin\Debug\net8.0\SIstemaDeControlDeAsistencia.pdb
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\obj\Debug\net8.0\SIstemaDeControlDeAsistencia.dll
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\obj\Debug\net8.0\refint\SIstemaDeControlDeAsistencia.dll
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\obj\Debug\net8.0\SIstemaDeControlDeAsistencia.pdb
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\obj\Debug\net8.0\SIstemaDeControlDeAsistencia.genruntimeconfig.cache
+C:\Users\ludwi\Desktop\C# Projects\SIstemaDeControlDeAsistencia\SIstemaDeControlDeAsistencia\obj\Debug\net8.0\ref\SIstemaDeControlDeAsistencia.dll

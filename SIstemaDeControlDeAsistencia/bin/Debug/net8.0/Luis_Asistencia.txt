@@ -1,0 +1,5 @@
+Nombre: Luis
+Sesiones Totales: 20
+Sesiones Asistidas: 10
+Porcentaje de Asistencia: 50%
+¿Cumple con el mínimo de asistencia? No
